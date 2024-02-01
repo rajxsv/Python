@@ -8,6 +8,6 @@ if 5>2:
 
 a = 10;
 a = int(10)
-a = "kachha"
+a = "something"
 
 print(a)
